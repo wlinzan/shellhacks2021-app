@@ -1,0 +1,2 @@
+This project was for ShellHacks2021. It was an attempt to use React.js and the api on "https://punkapi.com/documentation/v2".
+Feel free to mess around if you like. I'm still trying to fix the search bar.
