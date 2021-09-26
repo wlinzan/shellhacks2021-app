@@ -1,9 +1,10 @@
 .container{
-  height: 100vw;
+  
+  border: 10px solid rgb(23, 46, 110);
   padding: 20px;
 
   background: #83a4d4; /* fallback to old browsers */
-  background: linear-gradient(to left, #b6fbff, #83a4d4);
-
+  background: linear-gradient(to top, #a2c5f3, #5383ca);
+  
   color: #171212;
 };
